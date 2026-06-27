@@ -4,8 +4,10 @@ This project bridges computer vision and embedded hardware. It uses a Python scr
 
 ## System Architecture & Hardware Setup
 
-![Hardware Setup](<img width="1920" height="1001" alt="sketch_jun24a _ Arduino IDE 2 3 8 26_06_2026 9_44_49 am" src="https://github.com/user-attachments/assets/290ec951-98b6-4824-838c-7e69530a08f6" />
-)
+![Hardware Setup] 
+<img width="1920" height="1001" alt="sketch_jun24a _ Arduino IDE 2 3 8 26_06_2026 9_44_49 am" src="https://github.com/user-attachments/assets/fb0a31a1-9d03-4484-835c-40532fceb5b7" />
+
+
 
 The system consists of two main components:
 1. **Vision Processing (Python):** Captures video, masks the designated color, and calculates the pixel density of the target.
